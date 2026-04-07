@@ -1,7 +1,7 @@
 # BÁO CÁO KẾT QUẢ KIỂM THỬ (TEST RESULTS) — TRAVELBUDDY AI
 
-**Người thực hiện:** [Tên của bạn]
-**Ngày thực hiện:** 2024-04-07
+**Người thực hiện:** [Nguyễn Tiến Huy Hoàng]
+**Ngày thực hiện:** 2026-04-08
 **Mô hình sử dụng:** OpenAI gpt-4o-mini
 
 ---
